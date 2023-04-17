@@ -1,6 +1,10 @@
 # eslint-plugin-path-checker
 
-plugin for production project
+Plugin is designed for FSD architecture.
+
+1. Checking for access of imports from different layers
+2. Checking for imports from the API file
+3. Check for relative and absolute paths
 
 ## Installation
 
